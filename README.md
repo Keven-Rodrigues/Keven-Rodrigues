@@ -50,9 +50,8 @@ Sou apaixonado por tecnologia e estou sempre em busca de novos desafios. Atualme
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [🎮 Sistema de Bingo](https://github.com/Keven-Rodrigues/bingo-csharp) | Sistema completo de bingo com interface Windows Forms e log de sorteios em `.txt` | C#, WinForms |
-| [📚 Biblioteca Universitária](https://github.com/Keven-Rodrigues/sistema-biblioteca) | Banco de dados relacional para gerenciamento de livros, empréstimos e devoluções | MySQL |
-| [🌐 Site Gangplank — LoL](https://github.com/Keven-Rodrigues/site-lol-html) | Projeto front-end temático containerizado com Docker | HTML, CSS, Docker |
+| [🌐 Site LoL — ProjetoFaculdade](https://github.com/Keven-Rodrigues/ProjetoFaculdade) | Site informativo sobre League of Legends containerizado com Docker | HTML, CSS, Docker |
+| [🏆 Site LoL — Temático](https://github.com/Keven-Rodrigues/site-lol-html) | Site com galeria de campeões, mapa e formulário de contato | HTML, CSS |
 
 ---
 
