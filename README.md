@@ -1,63 +1,85 @@
-# 💫 Sobre Mim:
-Olá, mundo! Me chamo **Keven Rodrigues Faria** e sou estudante de **Sistemas de Informação**.  
-Sou apaixonado por tecnologia e busco constantemente me aprimorar em áreas como **desenvolvimento web**, **infraestrutura de redes** e **suporte técnico**.
+<div align="center">
 
-estou sempre em busca de novos desafios que me permitam crescer como profissional e colaborar em projetos de impacto.
+# Olá, eu sou o Keven 👋
 
-🎯 *"Em constante aprendizado e pronto para desafios reais no mundo da tecnologia."*
+**Estudante de Sistemas de Informação · Desenvolvedor C# / .NET**  
+📍 Bebedouro, SP · 🎓 Unifafibe
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kevenrodriguesfaria)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/rfkeven)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kevenrf05@gmail.com)
 
-## 🌐 Redes Sociais:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rfkeven) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kevenrodriguesfaria) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kevenrf05@gmail.com)
+</div>
 
 ---
 
-## 💻 Tecnologias que uso:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+## 💡 Sobre mim
+
+```csharp
+var keven = new Developer {
+    Foco        = "Backend com C# / .NET",
+    Graduação   = "Sistemas de Informação @ Unifafibe",
+    Interesses  = new[] { "APIs REST", "Docker", "Banco de dados relacionais" },
+    Disponível  = true
+};
+```
+
+Sou apaixonado por tecnologia e estou sempre em busca de novos desafios. Atualmente focado em **desenvolvimento backend** com C# e .NET, aprimorando habilidades em **infraestrutura com Docker** e **modelagem de bancos de dados**.
+
+> *"Em constante aprendizado e pronto para desafios reais no mundo da tecnologia."*
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🛠️ Tecnologias
 
-- 🎮 [Sistema de Bingo em C#](https://github.com/Keven-Rodrigues/bingo-csharp)  
-  Um sistema simples de bingo com interface Windows Forms e gravação de sorteios em `.txt`.
+**Linguagens & Frameworks**  
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-- 📚 [Sistema de Biblioteca Universitária](https://github.com/Keven-Rodrigues/sistema-biblioteca)  
-  Banco de dados relacional para gerenciamento de livros, empréstimos e devoluções.
-
-- 🌐 [Site do Gangplank - League of Legends](https://github.com/Keven-Rodrigues/gangplank-site)  
-  Projeto pessoal de front-end focado no campeão Gangplank.
-
----
-
-## 📊 Estatísticas do GitHub:
-![](https://github-readme-stats.vercel.app/api?username=Keven-Rodrigues&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Keven-Rodrigues&theme=github_dark_dimmed&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Keven-Rodrigues&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+**Banco de Dados & Infraestrutura**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-### 💡 Citação de inspiração para programadores
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🚀 Projetos em destaque
+
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| [🎮 Sistema de Bingo](https://github.com/Keven-Rodrigues/bingo-csharp) | Sistema completo de bingo com interface Windows Forms e log de sorteios em `.txt` | C#, WinForms |
+| [📚 Biblioteca Universitária](https://github.com/Keven-Rodrigues/sistema-biblioteca) | Banco de dados relacional para gerenciamento de livros, empréstimos e devoluções | MySQL |
+| [🌐 Site Gangplank — LoL](https://github.com/Keven-Rodrigues/site-lol-html) | Projeto front-end temático containerizado com Docker | HTML, CSS, Docker |
 
 ---
 
-## 📫 Como me encontrar:
-- 📧 Email: kevenrf05@gmail.com  
-- 📍 Localização: Bebedouro, SP  
-- 💼 [LinkedIn](https://www.linkedin.com/in/keven-rodrigues-9bb439232)  
+## 📊 Estatísticas
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Keven-Rodrigues&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keven-Rodrigues&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=Keven-Rodrigues&theme=github_dark_dimmed&hide_border=true)
+
+</div>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Keven-Rodrigues&icon=0&color=0)](https://visitcount.itsvg.in)
+## 📫 Contato
 
-<!-- Criado com orgulho usando GPRM ( https://gprm.itsvg.in ) -->
+- ✉️ **Email:** [kevenrf05@gmail.com](mailto:kevenrf05@gmail.com)
+- 💼 **LinkedIn:** [kevenrodriguesfaria](https://www.linkedin.com/in/keven-rodrigues-9bb439232)
+- 📍 **Localização:** Bebedouro, SP — Brasil
+
+---
+
+<div align="center">
+
+![Visitor Count](https://visitcount.itsvg.in/api?id=Keven-Rodrigues&icon=0&color=0)
+
+</div>
